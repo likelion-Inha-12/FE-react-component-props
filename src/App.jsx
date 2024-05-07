@@ -18,7 +18,7 @@ function App() {
     >
       {/* <BoxAlign /> */}
       {/* <SelectButtons /> */}
-      {/* <PlayGround /> */}
+      <PlayGround />
     </div>
   );
 }
